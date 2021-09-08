@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+@import "/Css/links/header.css";
+@import "/Css/links/home.css";
+@import "/Css/links/services.css";
+@import "/Css/links/about.css";
+@import "/Css//links/portfolio.css";
+@import "/Css//links/team.css";
+@import "/Css//links/news.css";
+@import "/Css//links/clients.css";
+@import "/Css//links/contact.css";
+@import "/Css//links/mobile.css";
+/* @import "/Css/reset.css"; */
+
+/* BASIC STYLES */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #111;
+}
